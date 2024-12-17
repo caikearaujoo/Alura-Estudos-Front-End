@@ -1,0 +1,36 @@
+body{
+    background-color: yellow;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace, ;
+}
+
+p{
+  color: white;
+}
+
+.github {
+    background-color: #22D4FD;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+  }
+
+  .linkedin {
+    background-color: #22D4FD;
+    color: black;
+    font-family: 'Courier New', Courier, monospace; 
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+  }
+
+  footer{
+    background-color: #FFFFF0;
+    color: white;
+  }
+/* Estilo opcional para alinhamento */
+main {
+    text-align: center; /* Centraliza o conteúdo */
+}
